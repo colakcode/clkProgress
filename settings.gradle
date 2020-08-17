@@ -1,0 +1,4 @@
+include ':Progress'
+include ':CircularProgress'
+include ':app'
+rootProject.name = "clkProgress"
