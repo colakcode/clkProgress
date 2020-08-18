@@ -60,6 +60,8 @@ You can also customize your ProgressDialog window.<br/>
 
     ProgressDialog.show(activity, "Loading...", circularProgress, backgroundColor, textColor, Gravity.CENTER);
     
+You can use a customized CircularProgress in ProgresDialog. You can also assign integer color variables instead of **backgroundColor** and **textColor**, and change the vertical height **(etc. Gravity.TOP, Gravity.CENTER, Gravity.BOTTOM)** of the dialog window on the screen.
+    
 ## Author
 Kemal ÇOLAK [@colakcode](https://github.com/colakcode/) on GitHub
 
