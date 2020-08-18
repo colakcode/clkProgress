@@ -57,7 +57,7 @@ You can use the following java code to call the ProgressDialog window with its s
     
 You can also customize your ProgressDialog window.<br/>
 
-    ProgressDialog.show(activity,circularProgress,backgroundColor, textColor, Gravity.CENTER);
+    ProgressDialog.show(activity,"Loading...", circularProgress,backgroundColor, textColor, Gravity.CENTER);
     
 ## Author
 Kemal ÇOLAK [@colakcode](https://github.com/colakcode/) on GitHub
