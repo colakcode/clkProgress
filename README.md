@@ -14,7 +14,7 @@ Step 1 : Add it in your root build.gradle at the end of repositories:<br/><br/>
         } 
     }
   
-Step 2. Add the dependency**
+Step 2. Add the dependency
 
     dependencies {
             implementation 'com.github.colakcode:clkProgress:v1.0'
@@ -57,7 +57,7 @@ You can use the following java code to call the ProgressDialog window with its s
     
 You can also customize your ProgressDialog window.<br/>
 
-    ProgressDialog.show(activity,"Loading...", circularProgress,backgroundColor, textColor, Gravity.CENTER);
+    ProgressDialog.show(activity, "Loading...", circularProgress, backgroundColor, textColor, Gravity.CENTER);
     
 ## Author
 Kemal ÇOLAK [@colakcode](https://github.com/colakcode/) on GitHub
