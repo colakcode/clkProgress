@@ -22,7 +22,7 @@ Step 2. Add the dependency
 
 ### CircularProgress
 The CircularProgress screenshot is provided below.<br/>
-![CircularProgress](https://github.com/colakcode/clkProgress/blob/master/images/circular_progress.png)
+<img src="https://github.com/colakcode/clkProgress/blob/master/images/circular_progress.gif" width="486" height="999"/>
 
 #### XML File
 
