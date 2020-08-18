@@ -2,7 +2,7 @@
 
 ## CircularProgress and ProgressDialog
 
-Use the clkPorgress library for a more stylish, useful and customizable progress tool in your projects. With the clkProgress library, you can have a customizable CircularProgress and a ProgressDialog where you can inform users.
+Use the clkPorgress library for a more stylish, useful and customizable progress tool in your Android projects. With the clkProgress library, you can have a customizable CircularProgress and a ProgressDialog where you can inform users.
 
 ### GetStarted
 
