@@ -1,6 +1,6 @@
 # clkProgress
-[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
-[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](https://developer.android.com/)
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://developer.android.com/about/versions/android-5.0)
 
 ## CircularProgress and ProgressDialog
 
