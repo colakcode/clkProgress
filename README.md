@@ -1,6 +1,8 @@
 # clkProgress
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](https://developer.android.com/)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://developer.android.com/about/versions/android-5.0)
+[![API](https://img.shields.io/badge/jitpack-v1.0-success)](https://jitpack.io/#colakcode/clkProgress/v1.0)
+[![API](https://img.shields.io/github/license/colakcode/clkProgress)](https://github.com/colakcode/clkProgress/blob/master/LICENSE)
 
 ## CircularProgress and ProgressDialog
 
