@@ -38,6 +38,7 @@ public class ProgressDialog extends Activity {
         RelativeLayout layoutMain=dialog.findViewById(R.id.layoutMain);
         LinearLayout layoutProgress=dialog.findViewById(R.id.layoutProgress);
         layoutProgress.addView(circularProgress);
+        dialog.setCanceledOnTouchOutside(false);
 
         textView=dialog.findViewById(R.id.textView);
         textView.setText(text);
